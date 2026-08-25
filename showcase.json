@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-25T19:31:06Z",
+  "generator": {
+    "name": "acro-docs",
+    "version": "0.1.0"
+  },
+  "site_url": "https://docs.acronym.lol",
+  "counts": {
+    "tools": 0,
+    "featured": 0
+  },
+  "entries": []
+}
