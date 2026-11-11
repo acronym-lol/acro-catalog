@@ -1,14 +1,141 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25T19:31:06Z",
+  "generated_at": "2026-11-11T04:23:25Z",
   "generator": {
     "name": "acro-docs",
     "version": "0.1.0"
   },
   "site_url": "https://docs.acronym.lol",
   "counts": {
-    "tools": 0,
+    "tools": 9,
     "featured": 0
   },
-  "entries": []
+  "entries": [
+    {
+      "repo": "acronym-lol/acro-alpacka",
+      "name": "ALPACKA",
+      "summary": "Desktop launcher for creative-tool projects and services, with a searchable project library, templated project creation, TD version pinning, and live process tracking.",
+      "category": "touchdesigner",
+      "status": "active",
+      "links": {
+        "repo": "https://github.com/acronym-lol/acro-alpacka",
+        "docs": null,
+        "homepage": "https://acronym-lol.github.io/acro-alpacka/",
+        "demo": null
+      },
+      "showcase": null
+    },
+    {
+      "repo": "acronym-lol/acro-td-component-creator",
+      "name": "Acro TD Component Creator",
+      "summary": "Dialog-based component scaffolding for TouchDesigner, generating extensions, callbacks, parameter pages, and optional network protocol DATs.",
+      "category": "touchdesigner",
+      "status": "active",
+      "links": {
+        "repo": "https://github.com/acronym-lol/acro-td-component-creator",
+        "docs": null,
+        "homepage": "https://acronym-lol.github.io/acro-td-component-creator/",
+        "demo": null
+      },
+      "showcase": null
+    },
+    {
+      "repo": "acronym-lol/acro-td-core",
+      "name": "Acro TD Core",
+      "summary": "TouchDesigner project template bundling seven modules as git subtrees, with version management, external tox handling, and component scaffolding.",
+      "category": "touchdesigner",
+      "status": "active",
+      "links": {
+        "repo": "https://github.com/acronym-lol/acro-td-core",
+        "docs": null,
+        "homepage": "https://acronym-lol.github.io/acro-td-core/",
+        "demo": null
+      },
+      "showcase": null
+    },
+    {
+      "repo": "acronym-lol/acro-td-hotkey-manager",
+      "name": "Acro TD Hotkey Manager",
+      "summary": "Central keyboard-shortcut registry for TouchDesigner components, owning keyboard input, modifier-state tracking, and conflict resolution.",
+      "category": "touchdesigner",
+      "status": "stable",
+      "links": {
+        "repo": "https://github.com/acronym-lol/acro-td-hotkey-manager",
+        "docs": null,
+        "homepage": "https://acronym-lol.github.io/acro-td-hotkey-manager/",
+        "demo": null
+      },
+      "showcase": null
+    },
+    {
+      "repo": "acronym-lol/acro-td-macros",
+      "name": "Acro TD Macros",
+      "summary": "Hierarchical macro framework for TouchDesigner: named units of behaviour with on-disk persistence, callbacks, and signal routing.",
+      "category": "touchdesigner",
+      "status": "active",
+      "links": {
+        "repo": "https://github.com/acronym-lol/acro-td-macros",
+        "docs": null,
+        "homepage": "https://acronym-lol.github.io/acro-td-macros/",
+        "demo": null
+      },
+      "showcase": null
+    },
+    {
+      "repo": "acronym-lol/acro-td-mcp",
+      "name": "Acro TD MCP",
+      "summary": "MCP bridge exposing TouchDesigner scene introspection and Python execution to Claude Code or any MCP-aware client.",
+      "category": "touchdesigner",
+      "status": "active",
+      "links": {
+        "repo": "https://github.com/acronym-lol/acro-td-mcp",
+        "docs": null,
+        "homepage": "https://acronym-lol.github.io/acro-td-mcp/",
+        "demo": null
+      },
+      "showcase": null
+    },
+    {
+      "repo": "acronym-lol/acro-td-theme-manager",
+      "name": "Acro TD Theme Manager",
+      "summary": "CSS-based theming for TouchDesigner, applying palettes to ui.colors, TUIK2 component params, and op-shortcut params from a single file.",
+      "category": "touchdesigner",
+      "status": "stable",
+      "links": {
+        "repo": "https://github.com/acronym-lol/acro-td-theme-manager",
+        "docs": null,
+        "homepage": "https://acronym-lol.github.io/acro-td-theme-manager/",
+        "demo": null
+      },
+      "showcase": null
+    },
+    {
+      "repo": "acronym-lol/acro-td-version-manager",
+      "name": "Acro TD Version Manager",
+      "summary": "Central version and tox management for TouchDesigner components: external tox save/load, semantic versioning, and remote update checks.",
+      "category": "touchdesigner",
+      "status": "active",
+      "links": {
+        "repo": "https://github.com/acronym-lol/acro-td-version-manager",
+        "docs": null,
+        "homepage": "https://acronym-lol.github.io/acro-td-version-manager/",
+        "demo": null
+      },
+      "showcase": null
+    },
+    {
+      "repo": "acronym-lol/acro-td-widgets",
+      "name": "Acro TD Widgets",
+      "summary": "Widget framework for building custom in-TD UIs from a reusable library of primitives, with a container primitive and component browser.",
+      "category": "touchdesigner",
+      "status": "active",
+      "links": {
+        "repo": "https://github.com/acronym-lol/acro-td-widgets",
+        "docs": null,
+        "homepage": "https://acronym-lol.github.io/acro-td-widgets/",
+        "demo": null
+      },
+      "showcase": null
+    }
+  ]
 }
